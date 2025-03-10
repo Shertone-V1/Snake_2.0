@@ -25,8 +25,6 @@
     </div>
 </div>
 
-@* <button @onclick="Check">Working</button> *@
-
 @code {
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -36,9 +34,4 @@
             await JSRuntime.InvokeVoidAsync("canvasInterop.registerKeyPressHandler"); 
         }
     }
-
-    @* private async Task Check()
-    {
-        await JSRuntime.InvokeVoidAsync("canvasInterop.runCheck");
-    } *@
 }

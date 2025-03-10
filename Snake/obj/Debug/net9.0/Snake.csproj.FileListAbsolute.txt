@@ -79,5 +79,5 @@
 /Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/Snake.sourcelink.json
 /Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz
 /Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz
-/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz
-/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz
+/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz
+/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz

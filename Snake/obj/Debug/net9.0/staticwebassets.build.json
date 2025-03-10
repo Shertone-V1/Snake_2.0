@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fHhhq1fX0YGvvA7kcKK7W28VRSwMJs/2mbGQxZcTIr0=",
+  "Hash": "Pq/cZ/CUJyf08J1sFqTuwfpafuZmt+2lMpo3pxbUIoE=",
   "Source": "Snake",
   "BasePath": "_content/Snake",
   "Mode": "Default",
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz",
       "SourceId": "Snake",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "js/extra#[.{fingerprint=czyis2gu03}]?.js.gz",
+      "RelativePath": "js/extra#[.{fingerprint=igh25d26ud}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -430,19 +430,19 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "s4us1m1g39",
-      "Integrity": "jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=",
+      "Fingerprint": "m8o14g2myk",
+      "Integrity": "CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz",
       "SourceId": "Snake",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "js/gameCode#[.{fingerprint=3qd8dvnbef}]?.js.gz",
+      "RelativePath": "js/gameCode#[.{fingerprint=mh5why18yu}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f5lnnny2v8",
-      "Integrity": "LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=",
+      "Fingerprint": "kg352ywxv4",
+      "Integrity": "xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js"
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "czyis2gu03",
-      "Integrity": "aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=",
+      "Fingerprint": "igh25d26ud",
+      "Integrity": "HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/extra.js"
@@ -1165,8 +1165,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3qd8dvnbef",
-      "Integrity": "ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=",
+      "Fingerprint": "mh5why18yu",
+      "Integrity": "NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/gameCode.js"
@@ -2478,13 +2478,13 @@
       ]
     },
     {
-      "Route": "js/extra.czyis2gu03.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "Route": "js/extra.igh25d26ud.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002288329519"
+          "Quality": "0.000587544066"
         }
       ],
       "ResponseHeaders": [
@@ -2494,15 +2494,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "436"
+          "Value": "1701"
         },
         {
           "Name": "ETag",
-          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
+          "Value": "\"CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2522,13 +2522,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+          "Value": "W/\"HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czyis2gu03"
+          "Value": "igh25d26ud"
         },
         {
           "Name": "label",
@@ -2536,12 +2536,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+          "Value": "sha256-HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk="
         }
       ]
     },
     {
-      "Route": "js/extra.czyis2gu03.js",
+      "Route": "js/extra.igh25d26ud.js",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2551,7 +2551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1319"
+          "Value": "10495"
         },
         {
           "Name": "Content-Type",
@@ -2559,11 +2559,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+          "Value": "\"HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2573,7 +2573,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czyis2gu03"
+          "Value": "igh25d26ud"
         },
         {
           "Name": "label",
@@ -2581,13 +2581,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+          "Value": "sha256-HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk="
         }
       ]
     },
     {
-      "Route": "js/extra.czyis2gu03.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "Route": "js/extra.igh25d26ud.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2596,7 +2596,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "436"
+          "Value": "1701"
         },
         {
           "Name": "Content-Type",
@@ -2604,11 +2604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
+          "Value": "\"CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2626,7 +2626,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "czyis2gu03"
+          "Value": "igh25d26ud"
         },
         {
           "Name": "label",
@@ -2634,18 +2634,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww="
+          "Value": "sha256-CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs="
         }
       ]
     },
     {
       "Route": "js/extra.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002288329519"
+          "Quality": "0.000587544066"
         }
       ],
       "ResponseHeaders": [
@@ -2655,15 +2655,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "436"
+          "Value": "1701"
         },
         {
           "Name": "ETag",
-          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
+          "Value": "\"CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2683,13 +2683,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+          "Value": "W/\"HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+          "Value": "sha256-HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk="
         }
       ]
     },
@@ -2704,7 +2704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1319"
+          "Value": "10495"
         },
         {
           "Name": "Content-Type",
@@ -2712,11 +2712,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+          "Value": "\"HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2726,13 +2726,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+          "Value": "sha256-HiJu/7DZpTernJOGJ7NuHYMn9dCx21x2rJo1hcNMdpk="
         }
       ]
     },
     {
       "Route": "js/extra.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-igh25d26ud.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2741,7 +2741,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "436"
+          "Value": "1701"
         },
         {
           "Name": "Content-Type",
@@ -2749,11 +2749,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
+          "Value": "\"CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+          "Value": "Mon, 10 Mar 2025 16:28:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2771,18 +2771,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww="
+          "Value": "sha256-CmsEbk7TaFWAMi9DxQB46VmXzWkal6G5fnxd4KGh3xs="
         }
       ]
     },
     {
-      "Route": "js/gameCode.3qd8dvnbef.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
+      "Route": "js/gameCode.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000692520776"
+          "Quality": "0.000653594771"
         }
       ],
       "ResponseHeaders": [
@@ -2792,19 +2792,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1443"
+          "Value": "1529"
         },
         {
           "Name": "ETag",
-          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
+          "Value": "\"xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2820,26 +2820,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
+          "Value": "W/\"NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3qd8dvnbef"
-        },
-        {
-          "Name": "label",
-          "Value": "js/gameCode.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
+          "Value": "sha256-NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0="
         }
       ]
     },
     {
-      "Route": "js/gameCode.3qd8dvnbef.js",
+      "Route": "js/gameCode.js",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2849,7 +2841,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8261"
+          "Value": "7701"
         },
         {
           "Name": "Content-Type",
@@ -2857,11 +2849,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
+          "Value": "\"NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0="
+        }
+      ]
+    },
+    {
+      "Route": "js/gameCode.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw="
+        }
+      ]
+    },
+    {
+      "Route": "js/gameCode.mh5why18yu.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000653594771"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1529"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh5why18yu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/gameCode.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0="
+        }
+      ]
+    },
+    {
+      "Route": "js/gameCode.mh5why18yu.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2871,7 +3008,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3qd8dvnbef"
+          "Value": "mh5why18yu"
         },
         {
           "Name": "label",
@@ -2879,13 +3016,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
+          "Value": "sha256-NpPgZ7I5jkGS/XSuQdGRREuXaF0qNWRqanLwJy5f/i0="
         }
       ]
     },
     {
-      "Route": "js/gameCode.3qd8dvnbef.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
+      "Route": "js/gameCode.mh5why18yu.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-mh5why18yu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2894,7 +3031,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1443"
+          "Value": "1529"
         },
         {
           "Name": "Content-Type",
@@ -2902,11 +3039,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
+          "Value": "\"xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
+          "Value": "Mon, 10 Mar 2025 16:37:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2924,7 +3061,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3qd8dvnbef"
+          "Value": "mh5why18yu"
         },
         {
           "Name": "label",
@@ -2932,144 +3069,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo="
-        }
-      ]
-    },
-    {
-      "Route": "js/gameCode.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000692520776"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1443"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
-        }
-      ]
-    },
-    {
-      "Route": "js/gameCode.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8261"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
-        }
-      ]
-    },
-    {
-      "Route": "js/gameCode.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1443"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo="
+          "Value": "sha256-xOo3qrOz6UdKnBj9mzQF8RMV0r2MPQ6projzpmXrEJw="
         }
       ]
     },
