@@ -599,6 +599,88 @@
       ]
     },
     {
+      "Route": "github_workflows_deploy.79pth9g0xm.yml",
+      "AssetFile": "github_workflows_deploy.yml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WWdywN9p0zEgFt7T3J7XIek/cirPaGrhR7yXB6sNss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 09:22:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79pth9g0xm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WWdywN9p0zEgFt7T3J7XIek/cirPaGrhR7yXB6sNss="
+        },
+        {
+          "Name": "label",
+          "Value": "github_workflows_deploy.yml"
+        }
+      ]
+    },
+    {
+      "Route": "github_workflows_deploy.yml",
+      "AssetFile": "github_workflows_deploy.yml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WWdywN9p0zEgFt7T3J7XIek/cirPaGrhR7yXB6sNss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 09:22:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WWdywN9p0zEgFt7T3J7XIek/cirPaGrhR7yXB6sNss="
+        }
+      ]
+    },
+    {
       "Route": "icon.png",
       "AssetFile": "icon.png",
       "Selectors": [],
