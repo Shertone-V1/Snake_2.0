@@ -1,0 +1,15 @@
+h1[b-40qmlwnkp4]{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.full-page[b-40qmlwnkp4]{
+    height: 100%;
+    width: 100%;
+}
+.items[b-40qmlwnkp4]{
+    text-align: center;
+    padding-top: 200px;
+}
+.btn:focus[b-40qmlwnkp4] {
+    outline: none;
+    box-shadow: none;
+}

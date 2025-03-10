@@ -1,0 +1,36 @@
+@page "/Game"
+@rendermode InteractiveServer
+@inject IJSRuntime JSRuntime 
+
+
+<PageTitle>Playing</PageTitle>
+
+<div class="container">
+    <div class="row justify-content-around">
+        <canvas class="col2 p-0" id="mainCanvas" width="400" height="200">
+        
+        </canvas>
+    </div>
+    <div class="row justify-content-around">
+        <label class="col2 text-center text-white" for="mainCanvas" id="infoLabel">Click Space or Arrow key to start.</label>
+    </div>
+    
+</div>
+
+@* <button @onclick="Check">Working</button> *@
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("canvasInterop.setupCanvas");
+            await JSRuntime.InvokeVoidAsync("canvasInterop.registerKeyPressHandler"); 
+        }
+    }
+
+    @* private async Task Check()
+    {
+        await JSRuntime.InvokeVoidAsync("canvasInterop.runCheck");
+    } *@
+}
