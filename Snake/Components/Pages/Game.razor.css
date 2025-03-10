@@ -3,3 +3,7 @@
     max-width: 800px;
     max-height: 600px;
 }
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}

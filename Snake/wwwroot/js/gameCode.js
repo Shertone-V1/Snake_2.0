@@ -14,31 +14,54 @@ class Snake {
         this.ctx.rect(this.x, this.y, this.size, this.size);
         this.ctx.stroke();
     }
+    clear(){
+        this.ctx.clearRect(0, 0, 1000, 500);
+    }
     moveUp() {
         this.y -= this.size;
-        this.ctx.clearRect(0, 0, 1000, 500);
+        this.clear();
         this.draw();
     }
     moveDown() {
         this.y += this.size;
-        this.ctx.clearRect(0, 0, 1000, 500);
+        this.clear();
         this.draw();
     }
     moveLeft() {
         this.x -= this.size;
-        this.ctx.clearRect(0, 0, 1000, 500);
+        this.clear();
         this.draw();
     }
     moveRight() {
         this.x += this.size;
-        this.ctx.clearRect(0, 0, 1000, 500);
+        this.clear();
         this.draw();
+    }
+}
+class Food{
+    constructor(ctx, x, y, size = 7, color = "green", borderWidth = 3) {
+        this.ctx = ctx;
+        this.x = x;
+        this.y = y;
+        this.size = size;
+        this.color = color;
+        this.borderWidth = borderWidth;
+    }
+    draw() {
+        this.ctx.beginPath();
+        this.ctx.arc(this.x, this.y, this.size, 0, this.size * Math.PI);
+        this.ctx.fillStyle = this.color;
+        this.ctx.fill();
     }
 }
 
 window.canvasInterop = {
 
     snake: null,
+    food: null,
+    foodX: 500,  
+    foodY: 210,
+    score: 0,
 
     setupCanvas: function () {
         // SETUP RESOLUTION
@@ -51,17 +74,27 @@ window.canvasInterop = {
         canvas.height = canvasHeight;
 
         // SETUP SNAKE HEAD
-        window.canvasInterop.snake = new Snake(ctx, 490, 240, 20);
+        window.canvasInterop.snake = new Snake(ctx, 490, 240);
         window.canvasInterop.snake.draw();
+
+        // SETUP FOOD
+        window.canvasInterop.food = new Food(ctx, window.canvasInterop.foodX, window.canvasInterop.foodY);
+        window.canvasInterop.food.draw();
     },
 
     restartGame: function () {
         let canvas = document.getElementById("mainCanvas");
         let ctx = canvas.getContext("2d");
 
+        window.canvasInterop.score = 0;
+        document.getElementById("scoreLabel").innerHTML = "Score: " + 0;
+
         ctx.clearRect(0, 0, 1000, 500);
         window.canvasInterop.snake = new Snake(ctx, 490, 240, 20);
         window.canvasInterop.snake.draw();
+
+        window.canvasInterop.food = new Food(ctx, window.canvasInterop.foodX, window.canvasInterop.foodY);
+        window.canvasInterop.food.draw();
 
         if (window.canvasInterop.gameLoop) {
             clearInterval(window.canvasInterop.gameLoop);
@@ -70,6 +103,38 @@ window.canvasInterop = {
         window.canvasInterop.gamePause = true;
         window.canvasInterop.direction = 1;
         window.canvasInterop.lastDirection = 1;
+    },
+
+     checkFood: function() {
+        let canvas = document.getElementById("mainCanvas");
+        let ctx = canvas.getContext("2d");
+
+        let possibleX = [];
+        let possibleY = [];
+        for (let x = 10; x <= 970; x += 20) {
+            possibleX.push(x);
+        }
+        for (let y = 30; y <= 480; y += 20) {
+            possibleY.push(y);
+        }
+
+        if (window.canvasInterop.snake.x+10 === window.canvasInterop.foodX && window.canvasInterop.snake.y+10 === window.canvasInterop.foodY) {
+
+            window.canvasInterop.foodX = possibleX[Math.floor(Math.random() * possibleX.length)] + 10;
+            window.canvasInterop.foodY = possibleY[Math.floor(Math.random() * possibleY.length)];
+            let food = new Food(ctx, window.canvasInterop.foodX, window.canvasInterop.foodY);
+            food.draw();
+
+            console.log("New food at: " + window.canvasInterop.foodX + ", " + window.canvasInterop.foodY);
+            window.canvasInterop.food = new Food(ctx, window.canvasInterop.foodX, window.canvasInterop.foodY);
+            window.canvasInterop.food.draw();
+            window.canvasInterop.score++;
+            document.getElementById("scoreLabel").innerHTML = "Score: " + window.canvasInterop.score;
+        }
+        else{
+            window.canvasInterop.food.draw(window.canvasInterop.foodX, window.canvasInterop.foodY);
+        }
+
     },
 
     registerKeyPressHandler: function () {
@@ -117,16 +182,19 @@ window.canvasInterop = {
                     document.getElementById("infoLabel").innerHTML = "PLAYING";
                 }
             }
-
             function moveSnake() {
-                if (window.canvasInterop.direction === 1 && window.canvasInterop.snake.y >= 25) {
+                if (window.canvasInterop.direction === 1 && window.canvasInterop.snake.y >= 30) {
                     window.canvasInterop.snake.moveUp();
+                    window.canvasInterop.checkFood();
                 } else if (window.canvasInterop.direction === 2 && window.canvasInterop.snake.y <= 450) {
                     window.canvasInterop.snake.moveDown();
-                } else if (window.canvasInterop.direction === 3 && window.canvasInterop.snake.x >= 25) {
+                    window.canvasInterop.checkFood();
+                } else if (window.canvasInterop.direction === 3 && window.canvasInterop.snake.x >= 30) {
                     window.canvasInterop.snake.moveLeft();
+                    window.canvasInterop.checkFood();
                 } else if (window.canvasInterop.direction === 4 && window.canvasInterop.snake.x <= 950) {
                     window.canvasInterop.snake.moveRight();
+                    window.canvasInterop.checkFood();
                 } else {
                     clearInterval(window.canvasInterop.gameLoop);
                     window.canvasInterop.gameLoop = null;
@@ -137,7 +205,10 @@ window.canvasInterop = {
                     window.canvasInterop.restartGame();
                 }
                 window.canvasInterop.lastDirection = window.canvasInterop.direction;
-            }
-        });
+            console.log("Snake at: " + window.canvasInterop.snake.x + ", " + window.canvasInterop.snake.y);
+            };
+            
+        }
+    );
     }
 };

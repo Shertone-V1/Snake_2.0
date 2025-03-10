@@ -1,14 +1,6 @@
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.full-page{
-    height: 100%;
-    width: 100%;
-}
-.items{
-    text-align: center;
-    padding-top: 200px;
-}
 .btn:focus {
     outline: none;
     box-shadow: none;

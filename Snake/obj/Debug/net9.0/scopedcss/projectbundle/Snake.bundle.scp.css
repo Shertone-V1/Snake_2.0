@@ -103,17 +103,13 @@ main[b-e53fkz1j91] {
     max-width: 800px;
     max-height: 600px;
 }
+.btn:focus[b-7pd4idzafj] {
+    outline: none;
+    box-shadow: none;
+}
 /* _content/Snake/Components/Pages/Home.razor.rz.scp.css */
 h1[b-40qmlwnkp4]{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.full-page[b-40qmlwnkp4]{
-    height: 100%;
-    width: 100%;
-}
-.items[b-40qmlwnkp4]{
-    text-align: center;
-    padding-top: 200px;
 }
 .btn:focus[b-40qmlwnkp4] {
     outline: none;

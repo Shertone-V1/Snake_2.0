@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ysKnqQ2b4eeDC8wPhWJYwiN6z4GG/DVjZXrheQVC4BM=",
+  "Hash": "fHhhq1fX0YGvvA7kcKK7W28VRSwMJs/2mbGQxZcTIr0=",
   "Source": "Snake",
   "BasePath": "_content/Snake",
   "Mode": "Default",
@@ -374,12 +374,12 @@
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-zwi8wf78bw.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz",
       "SourceId": "Snake",
       "SourceType": "Computed",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "Snake#[.{fingerprint=zwi8wf78bw}]!.bundle.scp.css.gz",
+      "RelativePath": "Snake#[.{fingerprint=e3arnp9mak}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -388,8 +388,8 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/projectbundle/Snake.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e72acw9xfo",
-      "Integrity": "qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=",
+      "Fingerprint": "o4zn1gnx7n",
+      "Integrity": "mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/projectbundle/Snake.bundle.scp.css"
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-km4sc0gny4.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
       "SourceId": "Snake",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "js/extra#[.{fingerprint=km4sc0gny4}]?.js.gz",
+      "RelativePath": "js/extra#[.{fingerprint=czyis2gu03}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -430,19 +430,19 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a04mpi0v0b",
-      "Integrity": "yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE=",
+      "Fingerprint": "s4us1m1g39",
+      "Integrity": "jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-7dxgwj6tcm.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
       "SourceId": "Snake",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "js/gameCode#[.{fingerprint=7dxgwj6tcm}]?.js.gz",
+      "RelativePath": "js/gameCode#[.{fingerprint=3qd8dvnbef}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rayp52008a",
-      "Integrity": "4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo=",
+      "Fingerprint": "f5lnnny2v8",
+      "Integrity": "LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js"
@@ -899,12 +899,12 @@
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-zwi8wf78bw.gz",
+      "Identity": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz",
       "SourceId": "Snake",
       "SourceType": "Computed",
       "ContentRoot": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Snake",
-      "RelativePath": "Snake#[.{fingerprint=zwi8wf78bw}]?.styles.css.gz",
+      "RelativePath": "Snake#[.{fingerprint=e3arnp9mak}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -913,8 +913,8 @@
       "RelatedAsset": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e72acw9xfo",
-      "Integrity": "qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=",
+      "Fingerprint": "o4zn1gnx7n",
+      "Integrity": "mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "zwi8wf78bw",
-      "Integrity": "wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=",
+      "Fingerprint": "e3arnp9mak",
+      "Integrity": "2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css"
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "zwi8wf78bw",
-      "Integrity": "wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=",
+      "Fingerprint": "e3arnp9mak",
+      "Integrity": "2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/projectbundle/Snake.bundle.scp.css"
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "km4sc0gny4",
-      "Integrity": "lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg=",
+      "Fingerprint": "czyis2gu03",
+      "Integrity": "aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/extra.js"
@@ -1165,8 +1165,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7dxgwj6tcm",
-      "Integrity": "6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ=",
+      "Fingerprint": "3qd8dvnbef",
+      "Integrity": "ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/gameCode.js"
@@ -2478,13 +2478,13 @@
       ]
     },
     {
-      "Route": "js/extra.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-km4sc0gny4.gz",
+      "Route": "js/extra.czyis2gu03.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003164556962"
+          "Quality": "0.002288329519"
         }
       ],
       "ResponseHeaders": [
@@ -2494,19 +2494,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "315"
+          "Value": "436"
         },
         {
           "Name": "ETag",
-          "Value": "\"yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE=\""
+          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2522,18 +2522,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg=\""
+          "Value": "W/\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "czyis2gu03"
+        },
+        {
+          "Name": "label",
+          "Value": "js/extra.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg="
+          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
         }
       ]
     },
     {
-      "Route": "js/extra.js",
+      "Route": "js/extra.czyis2gu03.js",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2543,7 +2551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "904"
+          "Value": "1319"
         },
         {
           "Name": "Content-Type",
@@ -2551,121 +2559,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg=\""
+          "Value": "\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg="
-        }
-      ]
-    },
-    {
-      "Route": "js/extra.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-km4sc0gny4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "315"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE="
-        }
-      ]
-    },
-    {
-      "Route": "js/extra.km4sc0gny4.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-km4sc0gny4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003164556962"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "315"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "km4sc0gny4"
+          "Value": "czyis2gu03"
         },
         {
           "Name": "label",
@@ -2673,13 +2581,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg="
+          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
         }
       ]
     },
     {
-      "Route": "js/extra.km4sc0gny4.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
+      "Route": "js/extra.czyis2gu03.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2688,7 +2596,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "904"
+          "Value": "436"
         },
         {
           "Name": "Content-Type",
@@ -2696,56 +2604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg=\""
+          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "km4sc0gny4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/extra.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lK3dsYaZ3SarRKZS1zhlGa+gng1X12BaDEwd3MS3cAg="
-        }
-      ]
-    },
-    {
-      "Route": "js/extra.km4sc0gny4.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-km4sc0gny4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "315"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 23:51:10 GMT"
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2763,7 +2626,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "km4sc0gny4"
+          "Value": "czyis2gu03"
         },
         {
           "Name": "label",
@@ -2771,18 +2634,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yr5lJil9/Xsj+Vmqt1aMQSd7piqTRTHNfhIscVdGNfE="
+          "Value": "sha256-jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww="
         }
       ]
     },
     {
-      "Route": "js/gameCode.7dxgwj6tcm.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-7dxgwj6tcm.gz",
+      "Route": "js/extra.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000955109838"
+          "Quality": "0.002288329519"
         }
       ],
       "ResponseHeaders": [
@@ -2792,15 +2655,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "436"
         },
         {
           "Name": "ETag",
-          "Value": "\"4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo=\""
+          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+        }
+      ]
+    },
+    {
+      "Route": "js/extra.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/extra.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBoHR9ZlruC1LuL0fX+l+j47ngbBYI6OUnWXP19PTto="
+        }
+      ]
+    },
+    {
+      "Route": "js/extra.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/e89j9xnyfw-czyis2gu03.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:01:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jFAyPuRd2oJBWulK9ctbaoGLLpjXmX4Zbi6IuemFuww="
+        }
+      ]
+    },
+    {
+      "Route": "js/gameCode.3qd8dvnbef.js",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000692520776"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1443"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2820,13 +2820,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ=\""
+          "Value": "W/\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7dxgwj6tcm"
+          "Value": "3qd8dvnbef"
         },
         {
           "Name": "label",
@@ -2834,12 +2834,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ="
+          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
         }
       ]
     },
     {
-      "Route": "js/gameCode.7dxgwj6tcm.js",
+      "Route": "js/gameCode.3qd8dvnbef.js",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/wwwroot/js/gameCode.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2849,7 +2849,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5631"
+          "Value": "8261"
         },
         {
           "Name": "Content-Type",
@@ -2857,11 +2857,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ=\""
+          "Value": "\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2871,7 +2871,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7dxgwj6tcm"
+          "Value": "3qd8dvnbef"
         },
         {
           "Name": "label",
@@ -2879,13 +2879,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ="
+          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
         }
       ]
     },
     {
-      "Route": "js/gameCode.7dxgwj6tcm.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-7dxgwj6tcm.gz",
+      "Route": "js/gameCode.3qd8dvnbef.js.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2894,7 +2894,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1443"
         },
         {
           "Name": "Content-Type",
@@ -2902,11 +2902,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo=\""
+          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2924,7 +2924,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7dxgwj6tcm"
+          "Value": "3qd8dvnbef"
         },
         {
           "Name": "label",
@@ -2932,18 +2932,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo="
+          "Value": "sha256-LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo="
         }
       ]
     },
     {
       "Route": "js/gameCode.js",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-7dxgwj6tcm.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000955109838"
+          "Quality": "0.000692520776"
         }
       ],
       "ResponseHeaders": [
@@ -2953,15 +2953,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1443"
         },
         {
           "Name": "ETag",
-          "Value": "\"4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo=\""
+          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,13 +2981,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ=\""
+          "Value": "W/\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ="
+          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
         }
       ]
     },
@@ -3002,7 +3002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5631"
+          "Value": "8261"
         },
         {
           "Name": "Content-Type",
@@ -3010,11 +3010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ=\""
+          "Value": "\"ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3024,13 +3024,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6/jl1V4A0DwxCYJpDwXKxbwBwngRHk3kZmc/LwAHQOQ="
+          "Value": "sha256-ezB+cP7ZaOF7tNOjYlevYGEK926PEwR2RnD/Ba6ffKU="
         }
       ]
     },
     {
       "Route": "js/gameCode.js.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-7dxgwj6tcm.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/ejng4fd7wp-3qd8dvnbef.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3039,7 +3039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1443"
         },
         {
           "Name": "Content-Type",
@@ -3047,11 +3047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo=\""
+          "Value": "\"LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 08:40:45 GMT"
+          "Value": "Mon, 10 Mar 2025 16:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3069,7 +3069,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4+b3WaXPZXZKrn2GD1Oar4JYyNUTvta6u6kKDmdYaBo="
+          "Value": "sha256-LWIhLYDR7C6mgeRyXiv18dwaECAjSl4bveJYMETqPHo="
         }
       ]
     },
@@ -16187,12 +16187,12 @@
     },
     {
       "Route": "Snake.bundle.scp.css",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-zwi8wf78bw.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001029866117"
+          "Quality": "0.001064962726"
         }
       ],
       "ResponseHeaders": [
@@ -16202,15 +16202,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16230,13 +16230,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "W/\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
@@ -16251,7 +16251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2673"
+          "Value": "2608"
         },
         {
           "Name": "Content-Type",
@@ -16259,11 +16259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16273,13 +16273,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
     {
       "Route": "Snake.bundle.scp.css.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-zwi8wf78bw.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16288,7 +16288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "Content-Type",
@@ -16296,11 +16296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16318,18 +16318,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA="
+          "Value": "sha256-mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk="
         }
       ]
     },
     {
-      "Route": "Snake.styles.css",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-zwi8wf78bw.gz",
+      "Route": "Snake.e3arnp9mak.bundle.scp.css",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001029866117"
+          "Quality": "0.001064962726"
         }
       ],
       "ResponseHeaders": [
@@ -16339,152 +16339,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
-        }
-      ]
-    },
-    {
-      "Route": "Snake.styles.css",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2673"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
-        }
-      ]
-    },
-    {
-      "Route": "Snake.styles.css.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-zwi8wf78bw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "970"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA="
-        }
-      ]
-    },
-    {
-      "Route": "Snake.zwi8wf78bw.bundle.scp.css",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-zwi8wf78bw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001029866117"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "970"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16504,13 +16367,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "W/\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16518,12 +16381,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
     {
-      "Route": "Snake.zwi8wf78bw.bundle.scp.css",
+      "Route": "Snake.e3arnp9mak.bundle.scp.css",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/projectbundle/Snake.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16533,7 +16396,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2673"
+          "Value": "2608"
         },
         {
           "Name": "Content-Type",
@@ -16541,11 +16404,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16555,7 +16418,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16563,13 +16426,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
     {
-      "Route": "Snake.zwi8wf78bw.bundle.scp.css.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-zwi8wf78bw.gz",
+      "Route": "Snake.e3arnp9mak.bundle.scp.css.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/cxsx5r31aw-e3arnp9mak.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16578,7 +16441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "Content-Type",
@@ -16586,11 +16449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16608,7 +16471,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16616,18 +16479,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA="
+          "Value": "sha256-mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk="
         }
       ]
     },
     {
-      "Route": "Snake.zwi8wf78bw.styles.css",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-zwi8wf78bw.gz",
+      "Route": "Snake.e3arnp9mak.styles.css",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001029866117"
+          "Quality": "0.001064962726"
         }
       ],
       "ResponseHeaders": [
@@ -16637,15 +16500,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16665,13 +16528,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "W/\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16679,12 +16542,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
     {
-      "Route": "Snake.zwi8wf78bw.styles.css",
+      "Route": "Snake.e3arnp9mak.styles.css",
       "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -16694,7 +16557,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2673"
+          "Value": "2608"
         },
         {
           "Name": "Content-Type",
@@ -16702,11 +16565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U=\""
+          "Value": "\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16716,7 +16579,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16724,13 +16587,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wz2w/RoYO0FYuCuJht5sxkWVVvXLzzoLKROJdbDLD2U="
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
         }
       ]
     },
     {
-      "Route": "Snake.zwi8wf78bw.styles.css.gz",
-      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-zwi8wf78bw.gz",
+      "Route": "Snake.e3arnp9mak.styles.css.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16739,7 +16602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "970"
+          "Value": "938"
         },
         {
           "Name": "Content-Type",
@@ -16747,11 +16610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA=\""
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 22:24:37 GMT"
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16769,7 +16632,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zwi8wf78bw"
+          "Value": "e3arnp9mak"
         },
         {
           "Name": "label",
@@ -16777,7 +16640,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qgXsEUTtfx9up7K7OVxMBjiS/y1Y15DcSkbsxbRlTdA="
+          "Value": "sha256-mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk="
+        }
+      ]
+    },
+    {
+      "Route": "Snake.styles.css",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001064962726"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "938"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
+        }
+      ]
+    },
+    {
+      "Route": "Snake.styles.css",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/scopedcss/bundle/Snake.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2va1xGmB3wJAL59PjYZsjT+jLHtVBvlIrSsA4psrjK0="
+        }
+      ]
+    },
+    {
+      "Route": "Snake.styles.css.gz",
+      "AssetFile": "/Users/shertone/Desktop/All_folder/Coding/NET-Projects/Snake_2.0/Snake/obj/Debug/net9.0/compressed/x3id5w03rp-e3arnp9mak.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Mar 2025 14:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mKIojnCj+WxXlS7A1gnLG0H5rDNsvbz20IwQ5QNQijk="
         }
       ]
     }
