@@ -1,7 +1,0 @@
-/home/runner/work/Snake_2.0/Snake_2.0/out/Snake
-/home/runner/work/Snake_2.0/Snake_2.0/out/appsettings.Development.json
-/home/runner/work/Snake_2.0/Snake_2.0/out/appsettings.json
-/home/runner/work/Snake_2.0/Snake_2.0/out/Snake.dll
-/home/runner/work/Snake_2.0/Snake_2.0/out/Snake.deps.json
-/home/runner/work/Snake_2.0/Snake_2.0/out/Snake.runtimeconfig.json
-/home/runner/work/Snake_2.0/Snake_2.0/out/Snake.pdb
